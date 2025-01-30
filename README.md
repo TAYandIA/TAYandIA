@@ -1,4 +1,20 @@
-"Bonjour, I'm [Your Name], a French lycée student with a passion for low-level programming and embedded systems. Although I have experience with high-level programming languages, I'm drawn to the intricacies of low-level development. In my free time, I enjoy learning and experimenting with new technologies, from building websites to exploring the world of embedded systems. Self-taught and always eager to learn, I'm excited to share my projects and collaborate with others on GitHub."
+# Bonjour
+
+Je suis Tayandy, un élève de lycée passionné par la programmation. Je suis intéressé par les systèmes embarqués, la programmation graphique et le développement de jeux.
+
+## Compétences
+
+* Langages de programmation : Rust, C, C++, HTML, CSS, JavaScript, Python, C#
+* Développement web : Création de sites web avec HTML, CSS et JavaScript
+* Développement de jeux : Utilisation de Godot
+
+## Intérêts
+
+* Systèmes embarqués
+* Programmation graphique
+* Développement de jeux
+* Développement web
+
 <!---
 TAYandIA/TAYandIA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
